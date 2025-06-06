@@ -7,7 +7,7 @@ permalink: /gallery/
 dropdown: true
 children:
   - title: IJCAI-2024
-    permalink: /gallery/IJACI-2025/
+    permalink: /gallery/ijcai-2024/
   - title: divider
   - title: AiTA-CBBL-2025
     permalink: /gallery/AiTA-CBBL-2025/
