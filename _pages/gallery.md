@@ -10,5 +10,8 @@ children:
     permalink: /gallery/ijcai-2024/
   - title: divider
   - title: AiTA-CBBL-2025
-    permalink: /gallery/AiTA-CBBL-2025/
+    permalink: /gallery/aitacbbl25/
+  - title: divider
+  - title: ISAAC-CONGRESS-2025
+    permalink: /gallery/isaac25/
 ---
