@@ -8,7 +8,7 @@ permalink: /databases/ginseng/
     <div class="container">
         <div id="Ginseng" class="custom-row">
                 <div class="custom-box">
-                    <h4><a href="https://balalab-skku.org/Ginseng2/" target="_blank" rel="noopener noreferrer">GinsengDB</a></h4>
+                    <h4><a href="https://balalab-skku.org/GinDB-AI/" target="_blank" rel="noopener noreferrer">GinsengDB</a></h4>
                     <p>A Comprehensive Platform for Panax Genus</p>
                 </div>
         </div>
