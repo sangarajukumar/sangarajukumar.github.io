@@ -53,6 +53,7 @@ permalink: /contact/
             }
         }
     </style>
+
 </head>
 <body>
     <form action="https://formspree.io/f/movjwjbe" method="POST">
@@ -67,5 +68,6 @@ permalink: /contact/
 
         <button type="submit">Send</button>
     </form>
+
 </body>
 </html>

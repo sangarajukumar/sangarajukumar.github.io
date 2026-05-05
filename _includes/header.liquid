@@ -6,17 +6,21 @@
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if site.title == 'blank' %}
             {%- comment -%}
-            {% if site.first_name %}
-              <span class="font-weight-lighter">
-                {{- site.first_name -}}
-              </span>
-            {% endif %}
-            {% if site.middle_name %}
-              {{- site.middle_name -}}
-            {% endif %}
+              {% if site.first_name %}
+                <span class="font-weight-lighter">
+                  {{- site.first_name -}}
+                </span>
+              {% endif %}
+              {% if site.middle_name %}
+                {{- site.middle_name -}}
+              {% endif %}
             {%- endcomment -%}
             {% if site.last_name %}
-            <img src="{{ '/assets/img/VK_logo.png' | relative_url }}" alt="VK Logo" style="height: 60px; width: auto; vertical-align: middle; transform: scale(1.4);">
+              <img
+                src="{{ '/assets/img/VK_logo.png' | relative_url }}"
+                alt="VK Logo"
+                style="height: 60px; width: auto; vertical-align: middle; transform: scale(1.4);"
+              >
             {% endif %}
           {% else %}
             {{- site.title -}}

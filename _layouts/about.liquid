@@ -8,7 +8,7 @@ layout: default
         <span class="font-weight-lighter">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
         {%- comment -%}
-        <img src="{{ '/assets/img/horse.png' | relative_url }}" alt="Knight Icon" style="width: 28px; height: 28px">
+          <img src="{{ '/assets/img/horse.png' | relative_url }}" alt="Knight Icon" style="width: 28px; height: 28px">
         {%- endcomment -%}
       {% else %}
         {{ site.title }}
@@ -53,15 +53,15 @@ layout: default
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
-    
+
     {% comment %}
-    <!-- Latest posts -->
-    {% if site.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
-    {% endif %}
+      <!-- Latest posts -->
+      {% if site.latest_posts.enabled %}
+        <h2>
+          <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+        </h2>
+        {% include latest_posts.liquid %}
+      {% endif %}
     {% endcomment %}
 
     <!-- Selected papers -->
@@ -76,9 +76,14 @@ layout: default
     <br>
     <h2>Motivational Quotes</h2>
     <blockquote class="no-margin reduce-gap">
-    <p><q><i>Learning gives creativity, Creativity leads to thinking, Thinking leads to knowledge, Knowledge makes you great.</i></q> - <a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam">A. P. J. Abdul Kalam</a></p>
-    <br>
-    <p><q><i>I don't stop when I'm tired, I stop when I'm done.</i></q> - <a href="https://davidgoggins.com/about/">David Goggins</a></p>
+      <p>
+        <q><i>Learning gives creativity, Creativity leads to thinking, Thinking leads to knowledge, Knowledge makes you great.</i></q> -
+        <a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam">A. P. J. Abdul Kalam</a>
+      </p>
+      <br>
+      <p>
+        <q><i>I don't stop when I'm tired, I stop when I'm done.</i></q> - <a href="https://davidgoggins.com/about/">David Goggins</a>
+      </p>
     </blockquote>
 
     <!-- Social -->
@@ -95,7 +100,11 @@ layout: default
     {% endif %}
     <!-- ClustrMaps Visitor Globe -->
     <div class="clustrmaps-container" style="max-width: 600px; width: 100%; margin: 0 auto; text-align: center;">
-      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=vTkSZbycI2N4HDJpTMhor8zt-EOoSQCUjvM8se6r3go'></script>
+      <script
+        type="text/javascript"
+        id="clustrmaps"
+        src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=vTkSZbycI2N4HDJpTMhor8zt-EOoSQCUjvM8se6r3go"
+      ></script>
     </div>
   </article>
 </div>
