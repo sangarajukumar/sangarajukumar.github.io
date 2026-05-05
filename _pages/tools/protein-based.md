@@ -11,6 +11,11 @@ permalink: /tools/protein-based/
                     <h4><a href="https://balalab-skku.org/IML-TYLCVs/" target="_blank" rel="noopener noreferrer">IML-TYLCVs</a></h4>
                     <p>Tomato yellow leaf curl virus severity predictor</p>
                 </div>
+                <!-- Second Box -->
+                <div class="custom-box">
+                    <h4><a href="https://balalab-skku.org/DeepTYLCV/" target="_blank" rel="noopener noreferrer" class="text-success">DeepTYLCV</a></h4>
+                    <p>Tomato yellow leaf curl virus severity predictor based on world-wide genomes</p>
+                </div>
         </div>
     </div>
 </section>
