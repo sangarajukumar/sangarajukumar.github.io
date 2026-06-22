@@ -12,10 +12,15 @@ permalink: /tools/peptide-based/
         <div id="Peptide-based" class="custom-row">
             <!-- First Box -->
             <div class="custom-box">
+                <h4><a href="https://balalab-skku.org/HLPpred2/" target="_blank" rel="noopener noreferrer" class="text-success">HLPpred 2.0</a></h4>
+                <p>Hemolytic peptides predictor</p>
+            </div>
+            <!-- Second Box -->
+            <div class="custom-box">
                 <h4><a href="https://balalab-skku.org/mHPpred/" target="_blank" rel="noopener noreferrer" class="text-success">mHPpred</a></h4>
                 <p>Hormone peptides predictor</p>
             </div>
-            <!-- Second Box -->
+            <!-- Third Box -->
             <div class="custom-box">
                 <h4><a href="https://balalab-skku.org/mACPpred2/" target="_blank" rel="noopener noreferrer" class="text-success">mACPpred 2.0</a></h4>
                 <p>Anticancer peptides predictor</p>
