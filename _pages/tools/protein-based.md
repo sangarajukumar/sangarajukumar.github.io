@@ -16,6 +16,10 @@ permalink: /tools/protein-based/
                     <h4><a href="https://balalab-skku.org/DeepTYLCV/" target="_blank" rel="noopener noreferrer" class="text-success">DeepTYLCV</a></h4>
                     <p>Tomato yellow leaf curl virus severity predictor based on world-wide genomes</p>
                 </div>
+                <div class="custom-box">
+                    <h4><a href="https://balalab-skku.org/DeepNToxPred/" target="_blank" rel="noopener noreferrer" class="text-success">DeepNToxPred</a></h4>
+                    <p>Neurotoxicity predictor based on protein, peptide, and combined Datasets</p>
+                </div>
         </div>
     </div>
 </section>
