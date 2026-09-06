@@ -18,7 +18,7 @@ permalink: /tools/protein-based/
                 </div>
                 <div class="custom-box">
                     <h4><a href="https://balalab-skku.org/DeepNToxPred/" target="_blank" rel="noopener noreferrer" class="text-success">DeepNToxPred</a></h4>
-                    <p>Neurotoxicity predictor based on protein, peptide, and combined Datasets</p>
+                    <p>Neurotoxicity prediction models for proteins, peptides, and both combined</p>
                 </div>
         </div>
     </div>
