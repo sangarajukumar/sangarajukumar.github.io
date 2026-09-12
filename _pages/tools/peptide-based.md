@@ -60,7 +60,8 @@ permalink: /tools/peptide-based/
     }
 
     .custom-row {
-        display: flex;
+        display: grid;
+        grid-template-columns: repeat(3, 320px);
         gap: 40px;
         margin-left: -20px;
     }
