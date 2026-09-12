@@ -7,9 +7,9 @@ permalink: /tools/protein-based/
 <section id="programs" class="programs">
     <div class="container">
         <div id="Protein-based" class="custom-row">
-                <div class="custom-box">
-                    <h4><a href="https://balalab-skku.org/IML-TYLCVs/" target="_blank" rel="noopener noreferrer">IML-TYLCVs</a></h4>
-                    <p>Tomato yellow leaf curl virus severity predictor</p>
+                 <div class="custom-box">
+                    <h4><a href="https://balalab-skku.org/DeepNToxPred/" target="_blank" rel="noopener noreferrer" class="text-success">DeepNToxPred</a></h4>
+                    <p>Neurotoxicity prediction models for proteins, peptides, and both combined</p>
                 </div>
                 <!-- Second Box -->
                 <div class="custom-box">
@@ -17,8 +17,8 @@ permalink: /tools/protein-based/
                     <p>Tomato yellow leaf curl virus severity predictor based on world-wide genomes</p>
                 </div>
                 <div class="custom-box">
-                    <h4><a href="https://balalab-skku.org/DeepNToxPred/" target="_blank" rel="noopener noreferrer" class="text-success">DeepNToxPred</a></h4>
-                    <p>Neurotoxicity prediction models for proteins, peptides, and both combined</p>
+                    <h4><a href="https://balalab-skku.org/IML-TYLCVs/" target="_blank" rel="noopener noreferrer">IML-TYLCVs</a></h4>
+                    <p>Tomato yellow leaf curl virus severity predictor</p>
                 </div>
         </div>
     </div>
