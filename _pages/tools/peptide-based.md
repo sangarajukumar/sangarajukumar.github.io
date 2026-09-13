@@ -10,10 +10,6 @@ permalink: /tools/peptide-based/
 <section id="programs" class="programs">
     <div class="container">
         <div id="Peptide-based" class="custom-row">
-            <div class="custom-box">
-                <h4><a href="https://jayasreekirthipati.org/StackHPpred" target="_blank" rel="noopener noreferrer" class="text-success">StackHPpred</a></h4>
-                <p>Hormone peptides predictor</p>
-            </div>
             <!-- First Box -->
             <div class="custom-box">
                 <h4><a href="https://balalab-skku.org/HLPpred2/" target="_blank" rel="noopener noreferrer" class="text-success">HLPpred 2.0</a></h4>
